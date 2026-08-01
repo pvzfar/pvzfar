@@ -1,0 +1,3 @@
+files:
+  - source: /PvZ_Fusion_Translator/Localization/English
+    translation: /PvZ_Fusion_Translator/Localization/%language%
